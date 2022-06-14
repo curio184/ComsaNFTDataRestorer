@@ -1,0 +1,2 @@
+# ComsaNFTDataRestorer
+Comsa NFTのデータをSymbolチェーンからリストアするスクリプト
